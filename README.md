@@ -2,5 +2,5 @@ gitpractice
 ===========
 
 this is a folder to practice git command
-
-first change!
+add some infomation here.
+ddddddd
